@@ -1,3 +1,4 @@
+package edu.lucas.inicio;
 import java.util.Scanner;
 
 public class MinhaClasse {
